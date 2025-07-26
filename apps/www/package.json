@@ -64,7 +64,7 @@
     "change-case": "^5.4.4",
     "chrono-node": "^2.8.2",
     "class-variance-authority": "^0.7.0",
-    "clsx": "^1.2.1",
+    "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
     "contentlayer2": "^0.4.6",
     "date-fns": "^2.30.0",
